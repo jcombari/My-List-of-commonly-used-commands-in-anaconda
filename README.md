@@ -944,4 +944,4 @@ Some essential packages for working with R
 	-** conda install -c r r-essentials **
 	-** install -c conda-forge r-matlib **
 
-
+ 
