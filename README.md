@@ -944,4 +944,6 @@ Some essential packages for working with R
 	- **conda install -c r r-essentials**
 	- **conda install -c conda-forge r-matlib**
 
+* [R language packages for Anaconda](https://docs.anaconda.com/anaconda/packages/r-language-pkg-docs/)
+
  
