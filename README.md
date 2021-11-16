@@ -942,6 +942,6 @@ Some essential packages for working with R
 
 * [To install this package with conda run:](https://anaconda.org/r/r-essentials) 
 	- **conda install -c r r-essentials**
-	- **install -c conda-forge r-matlib**
+	- **conda install -c conda-forge r-matlib**
 
  
