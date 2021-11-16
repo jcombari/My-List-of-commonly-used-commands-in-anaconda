@@ -940,8 +940,7 @@ For more details, please review this [link](https://blog.nubecolectiva.com/como-
 Some essential packages for working with R
 ==========================================
 
-* [To install this package with conda run:](https://anaconda.org/r/r-essentials)
-
+* [To install this package with conda run:](https://anaconda.org/r/r-essentials) 
 	- **conda install -c r r-essentials**
 	- **install -c conda-forge r-matlib**
 
